@@ -1,0 +1,21 @@
+C:\Users\Data\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.exe.config
+F:\Personal Branding\Visual Basic\calculator\calculator\bin\Debug\calculator.exe.config
+F:\Personal Branding\Visual Basic\calculator\calculator\bin\Debug\calculator.exe
+F:\Personal Branding\Visual Basic\calculator\calculator\bin\Debug\calculator.pdb
+F:\Personal Branding\Visual Basic\calculator\calculator\bin\Debug\calculator.xml
+F:\Personal Branding\Visual Basic\calculator\calculator\obj\Debug\calculator.Resources.resources
+F:\Personal Branding\Visual Basic\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+F:\Personal Branding\Visual Basic\calculator\calculator\obj\Debug\calculator.exe
+F:\Personal Branding\Visual Basic\calculator\calculator\obj\Debug\calculator.xml
+F:\Personal Branding\Visual Basic\calculator\calculator\obj\Debug\calculator.pdb
+F:\Personal Branding\Visual Basic\calculator\calculator\obj\Debug\calculator.simple_calculator.resources
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\bin\Debug\calculator.exe.config
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\obj\Debug\calculator.exe
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\obj\Debug\calculator.xml
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\obj\Debug\calculator.pdb
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\bin\Debug\calculator.exe
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\bin\Debug\calculator.pdb
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\bin\Debug\calculator.xml
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\obj\Debug\calculator.scientific_calculator.resources
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\obj\Debug\calculator.Resources.resources
+F:\Personal Branding\Visual Basic\calculator_scientific\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
